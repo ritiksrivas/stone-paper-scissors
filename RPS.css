@@ -50,7 +50,7 @@ margin-right: 30px;
 text-align: center;
 color: #EE5C2D;
 font-style: bold;
-font-size: 50px;
+font-size: 30px;
 
 }
 .comp{
@@ -58,7 +58,7 @@ font-size: 50px;
     margin-left: 40px;
     text-align: center;
     color: rgb(221, 0, 255);
-    font-size: 50px;
+    font-size: 30px;
     
 }
 #text{
@@ -78,7 +78,7 @@ font-size: 50px;
 #textresult{
     height: 30px;
     width: auto;
-    font-size: 50px;
+    font-size: 30px;
     color:black;
     border-radius: 5px solid black;
 
